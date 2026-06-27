@@ -1,0 +1,37 @@
+
+a:link {
+  color: #38598E;
+  background-color: transparent;  
+}
+a:visited {
+  color: #38598E;
+  background-color: transparent; 
+}
+a:hover {
+  color: #A84448;
+  background-color: transparent;  
+} 
+hl_color{
+  color: #CF0A0A;
+  background-color: lightblue;
+  font-weight: bold; 
+}
+
+hl_grant{
+  color: #227C70;
+  background-color: transparent; 
+  font-weight: bold;
+} 
+html{
+  color: #333333; 
+  background-color: #CCCCCC; 
+  font-family: Arial, sans-serif; 
+  font-size: 16px;
+  margin: 0 auto;  
+  height: 100%; 
+  min-height: 100%;
+  width: 100%;
+  max-width: 1080px;
+  padding: 0;
+  line-height:150%
+}
